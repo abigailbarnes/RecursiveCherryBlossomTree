@@ -1,2 +1,2 @@
 # RecursiveCherryBlossomTree
-Coded randomized branches of cherry blossom trees that change with a click of the mouse
+Personal Project (2019): Coded randomized branches (in Processing) of cherry blossom trees that change with a click of the mouse; implimented advanced topics not covered in AP Computer Science or Post-AP Data Structures such as recursion (brown tree branches) and Gaussian distribution (pink flower petals clustered around end of branch while getting more sparse as the coordinates move further from said branch)
